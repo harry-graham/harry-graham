@@ -38,6 +38,6 @@ Databases:
 
 ### 📊 Github stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-graham&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-graham&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=harry-graham&layout=compact)
