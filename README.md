@@ -38,6 +38,9 @@ Databases:
 
 ### 📊 Github stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-graham&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Both cards (Github Stats & Most used languages) are temporarily disabled on my profile whilst investigating the accuracy of the stats.
 
+<!--
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-graham&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![My most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=harry-graham&layout=compact)
+-->
