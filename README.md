@@ -2,7 +2,7 @@
 
 I'm a Full-stack Software Engineer, passionate about adding value, learning, and helping others. ✨
 
-I believe that autonomy is vital to enabling people to reach their full potential. I'm still searching for that autonomy for me, and am keen to find some things outside of work where I can contribute and make a difference. 🧡🛠️
+I believe that autonomy is vital to enabling people to reach their full potential. I'm still searching for some autonomy for me, and am keen to find some things outside of work where I can contribute and make a difference. 🧡🛠️
 
 ---
 
