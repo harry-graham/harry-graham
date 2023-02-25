@@ -2,6 +2,8 @@
 
 I'm a Full-stack Software Engineer, passionate about adding value, learning, and helping others. ✨
 
+I'm keen to work on projects implementing Continuous Integration, with low integration friction and high levels of trust. 🛠️
+
 ---
 
 ### 🌱 Currently learning
