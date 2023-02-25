@@ -2,8 +2,6 @@
 
 I'm a Full-stack Software Engineer, passionate about adding value, learning, and helping others. ✨
 
-I believe that CI is vital to enabling people to reach their full potential.
-
 ---
 
 ### 🌱 Currently learning
