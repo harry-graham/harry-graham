@@ -1,16 +1,10 @@
-### 👋 Hi there! I'm Harry Graham
+### 👋 Hi, I'm Harry Graham
 
-I'm a Full-stack Software Engineer, passionate about adding value, learning, and helping others. ✨
+I'm a full-stack Software Engineer, passionate about adding value, learning, and teaching others.
 
-I'm keen to work on projects implementing Continuous Integration, with low integration friction and high levels of trust. 🛠️
+My main experience is with Ruby on Rails, and I'm open to learning any technologies.
 
 ---
-
-### 🌱 Currently learning
-
-<code><a href="https://github.com/topics/typescript"><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
-<code><a href="https://github.com/neo4j"><img height="20" alt="Neo4j" src="https://avatars.githubusercontent.com/u/201120?s=200&v=4"></a></code>
-<code><a href="https://github.com/docker"><img height="20" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
 
 ### 💻 Languages and tools
 
