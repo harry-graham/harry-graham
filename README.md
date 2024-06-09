@@ -1,5 +1,6 @@
-### 👋 Hi, I'm Harry Graham
+### 👋 Hi, I'm Harry
 
-I'm a full-stack Software Engineer, passionate about adding value, learning, and teaching others.
+* Job title: Full Stack Software Engineer.
+* Enjoys: adding value, learning, and teaching others.
 
-My main experience is with Ruby on Rails, and I'm open to learning any technologies.
+Most recently used technologies: Ruby, Rails, React, JavaScript, TypeScript, PostgreSQL, Redux, RTK.
